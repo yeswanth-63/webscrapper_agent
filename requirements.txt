@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+langchain
+langchain_huggingface
+langsmith
+requests
+selenium
+webdriver-manager
+pandas
+openpyxl
+langchain_community
